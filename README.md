@@ -1,1 +1,1 @@
-# IP-final-project
+Online book store for software engineering
